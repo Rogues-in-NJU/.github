@@ -11,4 +11,4 @@
 
 🧙 In conclusion, we believe in the power of community and collaboration. By coming together as peaceful rogues, we can support and empower one another to achieve greatness in the world of technology. Join us in our mission to create a welcoming and inclusive environment for developers of all backgrounds. Together, we can achieve amazing things with the power of code and camaraderie.
 
-* generate by aigc
+* Generate by AI
